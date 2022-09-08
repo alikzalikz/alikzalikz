@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ali <img align="right" src="https://komarev.com/ghpvc/?username=AliKZ07&color=grey">
+## Hi there 👋 I'm Ali
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm currently Learning backend development
 - ❤️ I'm a linux lover
@@ -11,4 +11,4 @@
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-A.koleinyz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:A.koleinyz@gmail.com)
-[![telegram](https://img.shields.io/badge/-@AliKZ07-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/AliKZ07)
+[![telegram](https://img.shields.io/badge/-AliKZ07-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/AliKZ07)
