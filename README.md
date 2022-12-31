@@ -11,9 +11,9 @@
 ## 🛠 Tech Stack
 <p align="center">
   
-  [<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" width="200px" />][arch]
-  [<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg" width="200px" />][neovim]
-  [<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="200px" />][java]
-  [<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" width="200px" />][dotnet]
+  [<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50px" />][arch]
+  [<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="50px" />][neovim]
+  [<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50px" />][java]
+  [<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50px" />][dotnet]
   
 </p>
