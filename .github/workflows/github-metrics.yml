@@ -47,7 +47,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_starlists: yes
-          plugin_starlists_limit: 1
+          plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
