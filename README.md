@@ -14,6 +14,6 @@
   [<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50px" />][arch]
   [<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="50px" />][neovim]
   [<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50px" />][java]
-  [<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50px" />][dotnet]
+  [<img src="https://raw.githubusercontent.com/dotnet/brand/29878855347e055ff15675471f7043fda3e92cea/logo/dotnet-logo.svg" width="50px" />][dotnet]
   
 </p>
