@@ -5,7 +5,7 @@
 [dotnet]: https://dotnet.microsoft.com
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alikzalikz/alikzalikz/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github.com/alikzalikz/alikzalikz/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ## 🛠 Tech Stack
