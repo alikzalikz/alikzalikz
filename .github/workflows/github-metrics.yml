@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -15,21 +15,47 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # plugins
+          
+          # Options
           user: alikzalikz
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: Asia/Tehran
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_ignored: automator, verified, explorer, infographile
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_ignored: markdown, html, lua, other
-          plugin_languages_details: percentage
-          plugin_languages_other: yes
-          plugin_languages_threshold: 5%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_ignored: lua, html, css,
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_skipped:  My_DotFiles, My_Elements, My_Passport, My_Log, developer-roadmap
+          plugin_languages_threshold: 0%
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_starlists: yes
+          plugin_starlists_limit: 1
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_shuffle_repositories: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          repositories_forks: yes
