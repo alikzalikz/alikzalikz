@@ -7,8 +7,6 @@
   <a href="https://www.vim.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="70"></a>
 </p>
 
-https://learn.microsoft.com/en-us/dotnet/csharp/
-
 - 💻 I'm currently learning backend development from this [roadmap](https://roadmap.sh/backend)
 - ❤️ I'm a user and lover of linux
 
