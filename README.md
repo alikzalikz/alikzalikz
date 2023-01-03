@@ -7,8 +7,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="70" />
 </p>
 
-<h5 align="center">💻 I'm currently learning backend development from this [roadmap](https://roadmap.sh/backend)</h5>
-<h5 align="center">❤️ I'm a user and lover of linux</h5>
+- 💻 I'm currently learning backend development from this [roadmap](https://roadmap.sh/backend)
+- ❤️ I'm a user and lover of linux
 
 ![footer-separator](https://raw.githubusercontent.com/alikzalikz/alikzalikz/2ed2f7fb87fc0179c9f811b1e1151e0f15a217d4/repository-footer-separator.svg?sanitize=true)
 
