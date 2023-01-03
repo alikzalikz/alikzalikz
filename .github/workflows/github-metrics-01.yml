@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@main
         with:
-          filename: ./content/github-metrics-01.svg
+          filename: content.github-metrics-01.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
