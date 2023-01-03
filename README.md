@@ -14,5 +14,7 @@
 [![gmail](https://img.shields.io/badge/-A.koleinyz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:A.koleinyz@gmail.com)
 [![telegram](https://img.shields.io/badge/-@alikzalikz-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/alikzalikz)
 
+![footer-separator](https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/nord/repository-footer-separator.svg?sanitize=true)
+
 <img align="left" src="https://github.com/alikzalikz/alikzalikz/blob/main/github-metrics-01.svg" alt="GitHub Metrics 01" width="400px" />
 <img align="left" src="https://github.com/alikzalikz/alikzalikz/blob/main/github-metrics-02.svg" alt="GitHub Metrics 02" width="400px" />
